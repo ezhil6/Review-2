@@ -1,0 +1,42 @@
+.main-heading{
+    color: rgb(104, 226, 230);
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:4rem;
+}
+.form-control{
+    color: rgb(243, 239, 247);
+    text-align: center;
+    font-family: cursive;
+    font-size: 2rem;
+
+}
+body{
+    display: scroll;
+    background-image: url(home1.jpg);
+         background-repeat: no-repeat;
+         background-attachment: fixed;
+         background-size: cover;
+}
+.container{
+   color: wheat;
+    max-width: 80rem;
+    margin: auto;
+    padding:10px;
+    border: 2px solid;
+    font-size: 2rem;
+}
+.Rs{
+    text-align: right;
+
+}
+.field-inputs{
+    color: aquamarine;
+    font-size: 2rem;
+}
+.scc{
+    align-items: center;
+}
+.l-i{
+    color: rgb(24, 255, 255);
+}
